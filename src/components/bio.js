@@ -44,7 +44,7 @@ const Bio = () => {
       {author?.name && (
         <p>
           Hi, I'm Galih Pradipto👋😊
-          <br /> Let's checkout my
+          <br /> Checkout my portfolio at
           <a
             href={`https://dribbble.com/galihprad`}
             target="_blank"

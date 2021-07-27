@@ -54,12 +54,12 @@
   --fontSize-5: 2.074rem;
   --fontSize-6: 2.488rem;
   --fontSize-7: 2.986rem;
-  --color-primary: #1e88e5;
+  --color-primary: #64b5f6;
   --color-text: #90a4ae;
   --color-text-light: #90a4ae;
-  --color-heading: #1e88e5;
-  --color-heading-black: #2196f3;
-  --color-accent: #1e88e5;
+  --color-heading: #64b5f6;
+  --color-heading-black: #cfd8dc;
+  --color-accent: #82b1ff;
 }
 
 /* HTML elements */
@@ -257,6 +257,7 @@ a:focus {
 
 .main-heading {
   font-size: var(--fontSize-7);
+  /* color: #42a5f5; */
   margin: 0;
 }
 
